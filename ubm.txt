@@ -1,6 +1,0 @@
-UserBenchmarks: Game 15%, Desk 71%, Work 15%
-CPU: AMD Ryzen 5 5600U - 69%
-GPU: AMD RX Vega 8 5000 (iGPU) - 12.6%
-SSD: SK hynix BC711 HFM512GD3JX013N 512GB - 162.4%
-RAM: Micron 4ATF1G64HZ-3G2E1 2x8GB - 58.6%
-MBD: HP Pavilion Aero Laptop 13-be0xxx
