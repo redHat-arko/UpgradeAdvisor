@@ -2,9 +2,9 @@
 A simple, easy-to-use PC upgrade advisor made using Python referencing the [UserBenchmark](https://www.userbenchmark.com) API.
 
 ## How-to
-* Download the benchmarking tool from UserBenchmark [here](https://www.userbenchmark.com/resources/download/UserBenchmarkInstaller.exe)
+* Download the benchmarking tool from UserBenchmark [here](https://www.userbenchmark.com/resources/download/UserBenchmarkInstaller.exe).
 * Export the benchmark results to a text-file. To do this, simple copy-paste the results into a text file.
-* Run the Python script or the Windows executable
+* Run the Python script or the Windows executable.
 
 ## Usage
 `upgrade_advisor <text file> <percentage improvement>`
