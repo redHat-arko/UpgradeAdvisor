@@ -1,5 +1,5 @@
 # UpgradeAdvisor
-A simple, easy-to-use PC upgrade advisor made using Python referencing the [UserBenchmark](https://www.userbenchmark.com) API
+A simple, easy-to-use PC upgrade advisor made using Python referencing the [UserBenchmark](https://www.userbenchmark.com) API.
 
 ## How-to
 * Download the benchmarking tool from the UserBenchmark [here](https://www.userbenchmark.com/resources/download/UserBenchmarkInstaller.exe)
