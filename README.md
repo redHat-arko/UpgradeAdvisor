@@ -13,7 +13,7 @@ If you're using the Windows binary:
 
 If you're using the Python script instead, similarly:
 
-`python upgrade_advisor.py <text file> <percentage improvement>`
+`python3 upgrade_advisor.py <text file> <percentage improvement>`
 
 For example, if the results are stored in `results.txt` and you want a `30`% improvement, the command would be:
 
