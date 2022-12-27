@@ -19,4 +19,4 @@ For example, if the results are stored in `results.txt` and you want a `30`% imp
 
 `upgrade_advisor results.txt 30`
 
-The output would be a list of potentially upgradable components which you can then check out.
+The output would be a list of potentially upgradable components for the `CPU` and the `GPU` which you can then check out.
